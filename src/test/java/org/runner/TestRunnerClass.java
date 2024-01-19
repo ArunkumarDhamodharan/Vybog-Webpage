@@ -9,7 +9,7 @@ import io.cucumber.junit.CucumberOptions;
 import io.cucumber.junit.CucumberOptions.SnippetType;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = "C:\\Users\\Vy Systems\\eclipse-workspace\\VybogLoginPageCucumber\\src\\test\\resources\\Feature\\StartFreeTrail.feature",
+@CucumberOptions(features = "C:\\Users\\Vy Systems\\eclipse-workspace\\VybogLoginPageCucumber\\src\\test\\resources\\Feature\\ContactUsPage.feature",
 glue = "org.step",
 monochrome = true,
 dryRun = false, 
